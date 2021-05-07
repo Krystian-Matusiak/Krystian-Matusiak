@@ -16,3 +16,5 @@ ____
 `Linux`,
 `LaTeX`,
 `STM32`,
+`AVR`,
+`Git`,
