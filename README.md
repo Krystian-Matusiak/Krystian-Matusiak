@@ -15,3 +15,4 @@ ____
 `Yocto`,
 `Linux`,
 `LaTeX`,
+`STM32`,
