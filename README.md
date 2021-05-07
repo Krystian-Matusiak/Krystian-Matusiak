@@ -14,3 +14,4 @@ ____
 `Python`,
 `Yocto`,
 `Linux`,
+`LaTeX`,
