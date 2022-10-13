@@ -3,6 +3,7 @@ I'm student of Wrocław University of Science and Technology.
 
 ___
 **My interests:**
+🤖 `Machine Learning and Neural Network`
 💻 `Embedded systems`
 🔌 `Electronics`
 🎹 `Piano`
